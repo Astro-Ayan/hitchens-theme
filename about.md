@@ -6,13 +6,11 @@ title: About
 Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Christopher Hitchens" src="/Users/ayanbhattacharjee/WORKSPACE/GIT_HUB/PUBLIC_GITS_NEXUS/hitchens-theme/assets/images/AB_image.jpg" />
   <figcaption>
     Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
   </figcaption>
 </figure>
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
 
 >Ayan Bhattacharjee is a Postdoc at the erstwhile (sigh...) *Center for High Energy Astrophysics*, at the College of Natural Sciences, in Ulsan National Institute of Science and Technology. He has been living in South Korea, for last three years.
 ​
