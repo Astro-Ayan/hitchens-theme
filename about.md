@@ -14,4 +14,8 @@ Undoubtably one of the great minds of our time, Christopher Hitchens challenged 
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+>Ayan Bhattacharjee is a Postdoc at the erstwhile (sigh...) *Center for High Energy Astrophysics*, at the College of Natural Sciences, in Ulsan National Institute of Science and Technology. He has been living in South Korea, for last three years.
+​
+Before that, he was a Visiting Researcher in the Department of Astrophysics and Cosmology at S. N. Bose National Centre for Basic Sciences, till ~~the plague~~ *COVID19* mucked it all up. In pre-covid days, he did his Masters' and Doctorate at the same institute.
+​
+His PhD ~~dust collector~~ Thesis was on the accretion processes around Black Holes and Neutron Stars. One can find a detailed list of his work, interests and publications somwhere in this *website* or by simply poking him with a stick.
